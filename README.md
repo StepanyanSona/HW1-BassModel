@@ -1,7 +1,5 @@
 # HW1-BassModel
 
-# HW1-BassModel
-
 ## Overview
 This repository contains an innovation diffusion analysis using the Bass Diffusion Model to estimate adoption trends. The analysis includes historical data, parameter estimation, and forecasting of future adoption.
 
